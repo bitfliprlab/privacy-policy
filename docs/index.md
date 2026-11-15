@@ -7,3 +7,7 @@
 ## Scoopop
 
 - [개인정보처리방침 / Privacy Policy](./scoopop.html)
+
+## 수뿌 (Loofah Crunch)
+
+- [개인정보처리방침 / Privacy Policy](./suppu.html)
