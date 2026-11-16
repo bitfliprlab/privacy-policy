@@ -1,6 +1,6 @@
 # 개인정보처리방침 (수뿌: 수세미 ASMR)
 
-**시행일:** 2026-11-15  
+**시행일:** 2026-11-16  
 **앱 이름:** 수뿌: 수세미 ASMR (영문명 Loofah Crunch)  
 **개발자(운영자):** FliprLab
 
@@ -25,12 +25,14 @@ FliprLab(이하 "개발자")은 수뿌(이하 "앱") 이용자의 개인정보�
 
 이 정보는 광고 제공, 광고 성과 측정, 부정 사용 방지, 동의 관리에 쓰이며 Google의 정책에 따라 처리됩니다.
 
+앱에 포함된 Google Play 서비스 구성 요소(Google 모바일 광고 SDK, Firebase SDK)는 Google의 정책에 따라 기기에 로그인된 Google 계정 정보(이메일 주소 등)에 접근하거나 이를 Google로 전송할 수 있습니다. 앱 자체는 이메일 주소를 묻거나 사용하지 않으며, 개발자는 이 정보를 받지 않습니다.
+
 - Google의 파트너 사이트·앱 데이터 사용 방식: https://policies.google.com/technologies/partner-sites
 - Google 광고 관련 정책: https://policies.google.com/technologies/ads
 
 ## 3. 앱 사용 분석 (Google 애널리틱스 for Firebase)
 
-게임을 개선하기 위해 Google 애널리틱스 for Firebase로 앱 사용 통계를 수집합니다. 개발자는 Google이 집계한 통계만 보며, 이용자를 직접 식별하는 정보(이름, 이메일 등)는 보내지 않습니다.
+게임을 개선하기 위해 Google 애널리틱스 for Firebase로 앱 사용 통계를 수집합니다. 개발자는 Google이 집계한 통계만 보며, 개발자가 직접 이용자를 식별하는 정보(이름, 이메일 등)를 보내지는 않습니다.
 
 - 앱 인스턴스 ID, 광고 ID 등 기기 식별자
 - IP 주소를 바탕으로 한 대략적인 위치(국가·지역)
@@ -80,7 +82,7 @@ FliprLab(이하 "개발자")은 수뿌(이하 "앱") 이용자의 개인정보�
 
 # Privacy Policy (Loofah Crunch)
 
-**Effective date:** November 15, 2026  
+**Effective date:** November 16, 2026  
 **App:** Loofah Crunch (Korean title: 수뿌: 수세미 ASMR)  
 **Developer:** FliprLab
 
@@ -90,14 +92,14 @@ Settings (sound output mode, haptic strength and other tuning values), the numbe
 
 ## 2. Data processed for ads
 
-The app shows ads through Google AdMob (Google Mobile Ads SDK and User Messaging Platform). Rewarded ads appear only when you choose to watch one, and interstitial ads appear, at a limited rate, only when you move on to the next loofah after finishing one — never while you are touching a loofah. Google may collect or process the advertising ID and other device identifiers, your IP address and the approximate location derived from it, device and app information, ad interactions, and diagnostic data. This is used to serve and measure ads, prevent fraud and manage consent, under Google's policies:
+The app shows ads through Google AdMob (Google Mobile Ads SDK and User Messaging Platform). Rewarded ads appear only when you choose to watch one, and interstitial ads appear, at a limited rate, only when you move on to the next loofah after finishing one — never while you are touching a loofah. Google may collect or process the advertising ID and other device identifiers, your IP address and the approximate location derived from it, device and app information, ad interactions, and diagnostic data. This is used to serve and measure ads, prevent fraud and manage consent, under Google's policies. The Google Play services components bundled in the app (Google Mobile Ads SDK, Firebase SDK) may access the Google account information signed in on the device, such as the email address, or send it to Google under Google's policies. The app itself never asks for or uses your email address, and the developer never receives it:
 
 - https://policies.google.com/technologies/partner-sites
 - https://policies.google.com/technologies/ads
 
 ## 3. App usage analytics (Google Analytics for Firebase)
 
-To improve the game, the app collects usage statistics with Google Analytics for Firebase: the app instance ID, the advertising ID and other device identifiers, approximate location derived from your IP address, device and app information, and in-game events such as app opens, the loofah type you pick, time to the first crack, peeling and finishing a loofah with the main gesture used, earphone or speaker output setting, haptics support, and ad offers and results. The developer sees only aggregated statistics and never sends your name or email. Where consent is required, analytics storage and use follow the choice you make in the ad consent message. Analytics data is kept for 14 months.
+To improve the game, the app collects usage statistics with Google Analytics for Firebase: the app instance ID, the advertising ID and other device identifiers, approximate location derived from your IP address, device and app information, and in-game events such as app opens, the loofah type you pick, time to the first crack, peeling and finishing a loofah with the main gesture used, earphone or speaker output setting, haptics support, and ad offers and results. The developer sees only aggregated statistics and itself never sends your name or email. Where consent is required, analytics storage and use follow the choice you make in the ad consent message. Analytics data is kept for 14 months.
 
 - https://support.google.com/analytics/answer/6004245
 
