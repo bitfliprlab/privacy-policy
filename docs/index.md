@@ -15,3 +15,7 @@
 ## 팥붕슈붕 (Patbung Shubung)
 
 - [개인정보처리방침 / Privacy Policy](./patshu.html)
+
+## 조종면허 (수상레저 필기 실기)
+
+- [개인정보처리방침 / Privacy Policy](./boatlicense.html)
